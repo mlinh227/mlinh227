@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some python project
+- 🌱 I’m currently learning ...
+- 💬 Ask me about best Viet places to visit in Richmond
+- ⚡ Fun fact: I can eat 20 banh mis at once
+
 <!--
 **mlinh227/mlinh227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
